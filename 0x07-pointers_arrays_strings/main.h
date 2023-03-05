@@ -1,13 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * File: main.h
- * Auth: Addo Dee
- * Description: Header file containing prototypes for all functions
- *              used in the previous task 0x06-pointers_arrays_strings.
- */
-
 #include <stddef.h>
 
 int _putchar(char c);
