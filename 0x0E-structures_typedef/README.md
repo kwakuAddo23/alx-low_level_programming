@@ -13,4 +13,4 @@ Task 3: this defines a new type "dog_t" as a new name for the type "struct_dog"
 
 Task 4: this function creates a new dog
 
-Task 5: a function that frees the dogs
+Task 5: a function that frees the dogs, dogs are out
