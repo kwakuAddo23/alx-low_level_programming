@@ -12,7 +12,7 @@
  * Description: singly linked list node structure
  * for my ALX  project
  */
- 
+
 typedef struct listint_s
 {
 	int n;
